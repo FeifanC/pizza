@@ -1,0 +1,39 @@
+*{
+    color: darkblue;
+}
+
+body{
+    background: skyblue;
+    padding-bottom: 100px;
+}
+
+#title{
+    border: 3px solid brown;
+    text-align: center;
+}
+
+hr{
+    color: darkred;    
+}
+
+.meat{
+    color: brown;
+}
+
+.veggie{
+    color: green;
+}
+
+.cheese{
+    color: darkorange;
+}
+
+h3{
+    border: 2px solid brown;
+}
+
+img{
+    margin-left: 10%;
+    width: 300px;
+    height: 240px;
+}
